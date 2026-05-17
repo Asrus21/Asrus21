@@ -42,17 +42,7 @@ Também tenho experiência com a metodologia ágil **Scrum**, aplicada em projet
 | Projeto | Descrição | Link |
 |---|---|---|
 | **Song Request Queue / Desktop** | Aplicativo desktop para gerenciar uma fila de pedidos de música durante lives na Twitch. | [Acessar](https://www.asrus.app/song-request-queue) |
-| **Spotify API Command** | Integração com a API do Spotify para comandos no chat da Twitch interagirem com a playlist do streamer. | [Acessar](https://www.asrus.app/spotify/register) |
-| **Rank LoL / TFT** | Ferramenta que consulta e exibe o ranque de jogadores de LoL e TFT, integrada ao chat da Twitch. | [Acessar](https://www.asrus.app/rank-lol-tft) |
-
----
-
-### Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asrus21&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asrus21&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="165" />
-</p>
+| **Rank LoL** | Ferramenta que consulta e exibe o ranque de jogadores de LoL, integrada ao chat da Twitch. | [Acessar](https://www.asrus.app/rank-lol-tft) |
 
 ---
 
