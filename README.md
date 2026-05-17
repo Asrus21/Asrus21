@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.asrus.app/Portifolio">🌐 Portfólio</a> ·
+  <a href="https://www.asrus.app/portifolio">🌐 Portfólio</a> ·
   <a href="https://www.linkedin.com/in/thiago-souza-726119264/">💼 LinkedIn</a> ·
   <a href="https://instagram.com/thi.arrudas">📷 Instagram</a>
 </p>
