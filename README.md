@@ -19,7 +19,7 @@ Busco ingressar na área de Tecnologia da Informação como Desenvolvedor de Sof
 - 🎓 Análise e Desenvolvimento de Sistemas — Faculdade Visconde de Cairu
 - 📍 Salvador-BA — aberto a trabalho remoto, presencial ou semipresencial
 - 🎮 Por hobby, desenvolvo ferramentas e utilitários para o ecossistema da Twitch
-- 🗣️ Português (nativo) · Inglês básico
+- 🗣️ Português (nativo) · Inglês — Intermediário (B1)
 
 ---
 
