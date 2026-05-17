@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.asrus.app/portifolio">🌐 Portfólio</a> ·
-  <a href="https://www.linkedin.com/in/thiago-souza-726119264/">💼 LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/th-arruda/">💼 LinkedIn</a> ·
   <a href="https://instagram.com/thi.arrudas">📷 Instagram</a>
 </p>
 
@@ -19,7 +19,7 @@ Busco ingressar na área de Tecnologia da Informação como Desenvolvedor de Sof
 - 🎓 Análise e Desenvolvimento de Sistemas — Faculdade Visconde de Cairu
 - 📍 Salvador-BA — aberto a trabalho remoto, presencial ou semipresencial
 - 🎮 Por hobby, desenvolvo ferramentas e utilitários para o ecossistema da Twitch
-- 🗣️ Português (nativo) · Inglês intermediário-avançado.
+- 🗣️ Português (nativo) · Inglês básico
 
 ---
 
@@ -42,7 +42,7 @@ Também tenho experiência com a metodologia ágil **Scrum**, aplicada em projet
 | Projeto | Descrição | Link |
 |---|---|---|
 | **Song Request Queue / Desktop** | Aplicativo desktop para gerenciar uma fila de pedidos de música durante lives na Twitch. | [Acessar](https://www.asrus.app/song-request-queue) |
-| **Rank LoL** | Ferramenta que consulta e exibe o ranque de jogadores de LoL, integrada ao chat da Twitch. | [Acessar](https://www.asrus.app/rank-lol-tft) |
+| **Rank LoL / TFT** | Ferramenta que consulta e exibe o ranque de jogadores de LoL e TFT, integrada ao chat da Twitch. | [Acessar](https://www.asrus.app/rank-lol-tft) |
 
 ---
 
